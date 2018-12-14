@@ -19,6 +19,9 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "devDependencies": {
+    "gh-pages": "2.0.1",
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
